@@ -1,0 +1,12 @@
+*{
+    background-color: black;
+    display: flex;
+    color: white;
+}
+.section:nth-child(1){
+    flex-direction: row;
+}
+.section:nth-child(1) nav img{
+    width: 20px;
+    height: 20px;
+}
